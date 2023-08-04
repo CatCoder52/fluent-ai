@@ -1,0 +1,1593 @@
+{
+    "params": {
+        "request": {
+            "coreType": "sent.eval.cn",
+            "slack": 1,
+            "tokenId": "tokenId",
+            "refText": "绿 是 阳春 烟 景 大块 文章 的 底色 四月 的 林 峦 更是 绿 得 鲜活 秀媚 诗意 盎然"
+        },
+        "app": {
+            "timestamp": "1690389002",
+            "applicationId": "168932340900019b",
+            "userId": "guest",
+            "sig": "143d58989314fb17203151add716421ee5e0ded2"
+        },
+        "audio": {
+            "sampleRate": 16000,
+            "sampleBytes": 2,
+            "audioType": "wav",
+            "channel": 1
+        }
+    },
+    "eof": 1,
+    "tokenId": "tokenId",
+    "refText": "绿 是 阳春 烟 景 大块 文章 的 底色 四月 的 林 峦 更是 绿 得 鲜活 秀媚 诗意 盎然",
+    "applicationId": "168932340900019b",
+    "result": {
+        "duration": "9.814",
+        "speed": 220,
+        "integrity": 100,
+        "tone": 92,
+        "words": [
+            {
+                "pause": {
+                    "duration": 0,
+                    "type": 0
+                },
+                "charType": 0,
+                "word": "绿",
+                "span": {
+                    "start": 83,
+                    "end": 119
+                },
+                "pinyin": "lv",
+                "readType": 0,
+                "word_parts": [
+                    {
+                        "endIndex": 0,
+                        "part": "绿",
+                        "charType": 0,
+                        "beginIndex": 0
+                    }
+                ],
+                "scores": {
+                    "overall_pron": 100,
+                    "tone": 100,
+                    "overall": 100,
+                    "pronunciation": 100,
+                    "prominence": 0
+                },
+                "tone": "tone4",
+                "phonemes": [
+                    {
+                        "tone_index": "0",
+                        "phoneme": "L",
+                        "span": {
+                            "start": 83,
+                            "end": 96
+                        },
+                        "pronunciation": 100,
+                        "phone": "l"
+                    },
+                    {
+                        "tone_index": "1",
+                        "phoneme": "V",
+                        "span": {
+                            "start": 96,
+                            "end": 119
+                        },
+                        "pronunciation": 100,
+                        "phone": "v"
+                    }
+                ]
+            },
+            {
+                "pause": {
+                    "duration": 0,
+                    "type": 0
+                },
+                "charType": 0,
+                "word": "是",
+                "span": {
+                    "start": 119,
+                    "end": 134
+                },
+                "pinyin": "shi",
+                "readType": 0,
+                "word_parts": [
+                    {
+                        "endIndex": 2,
+                        "part": "是",
+                        "charType": 0,
+                        "beginIndex": 2
+                    }
+                ],
+                "scores": {
+                    "overall_pron": 100,
+                    "tone": 100,
+                    "overall": 100,
+                    "pronunciation": 100,
+                    "prominence": 0
+                },
+                "tone": "tone4",
+                "phonemes": [
+                    {
+                        "tone_index": "0",
+                        "phoneme": "SH",
+                        "span": {
+                            "start": 119,
+                            "end": 129
+                        },
+                        "pronunciation": 100,
+                        "phone": "sh"
+                    },
+                    {
+                        "tone_index": "1",
+                        "phoneme": "IX",
+                        "span": {
+                            "start": 129,
+                            "end": 134
+                        },
+                        "pronunciation": 100,
+                        "phone": "i"
+                    }
+                ]
+            },
+            {
+                "pause": {
+                    "duration": 0,
+                    "type": 0
+                },
+                "charType": 0,
+                "word": "阳",
+                "span": {
+                    "start": 134,
+                    "end": 159
+                },
+                "pinyin": "yang",
+                "readType": 0,
+                "word_parts": [
+                    {
+                        "endIndex": 4,
+                        "part": "阳",
+                        "charType": 0,
+                        "beginIndex": 4
+                    }
+                ],
+                "scores": {
+                    "overall_pron": 100,
+                    "tone": 100,
+                    "overall": 100,
+                    "pronunciation": 100,
+                    "prominence": 0
+                },
+                "tone": "tone2",
+                "phonemes": [
+                    {
+                        "tone_index": "0",
+                        "phoneme": "II",
+                        "span": {
+                            "start": 134,
+                            "end": 143
+                        },
+                        "pronunciation": 100,
+                        "phone": "y"
+                    },
+                    {
+                        "tone_index": "1",
+                        "phoneme": "IANG",
+                        "span": {
+                            "start": 143,
+                            "end": 159
+                        },
+                        "pronunciation": 100,
+                        "phone": "ang"
+                    }
+                ]
+            },
+            {
+                "pause": {
+                    "duration": 0,
+                    "type": 0
+                },
+                "charType": 0,
+                "word": "春",
+                "span": {
+                    "start": 159,
+                    "end": 180
+                },
+                "pinyin": "chun",
+                "readType": 0,
+                "word_parts": [
+                    {
+                        "endIndex": 5,
+                        "part": "春",
+                        "charType": 0,
+                        "beginIndex": 5
+                    }
+                ],
+                "scores": {
+                    "overall_pron": 100,
+                    "tone": 100,
+                    "overall": 100,
+                    "pronunciation": 100,
+                    "prominence": 0
+                },
+                "tone": "tone1",
+                "phonemes": [
+                    {
+                        "tone_index": "0",
+                        "phoneme": "CH",
+                        "span": {
+                            "start": 159,
+                            "end": 172
+                        },
+                        "pronunciation": 100,
+                        "phone": "ch"
+                    },
+                    {
+                        "tone_index": "1",
+                        "phoneme": "UN",
+                        "span": {
+                            "start": 172,
+                            "end": 180
+                        },
+                        "pronunciation": 100,
+                        "phone": "un"
+                    }
+                ]
+            },
+            {
+                "pause": {
+                    "duration": 0,
+                    "type": 0
+                },
+                "charType": 0,
+                "word": "烟",
+                "span": {
+                    "start": 180,
+                    "end": 211
+                },
+                "pinyin": "yan",
+                "readType": 0,
+                "word_parts": [
+                    {
+                        "endIndex": 7,
+                        "part": "烟",
+                        "charType": 0,
+                        "beginIndex": 7
+                    }
+                ],
+                "scores": {
+                    "overall_pron": 100,
+                    "tone": 100,
+                    "overall": 100,
+                    "pronunciation": 100,
+                    "prominence": 0
+                },
+                "tone": "tone1",
+                "phonemes": [
+                    {
+                        "tone_index": "0",
+                        "phoneme": "II",
+                        "span": {
+                            "start": 180,
+                            "end": 194
+                        },
+                        "pronunciation": 100,
+                        "phone": "y"
+                    },
+                    {
+                        "tone_index": "1",
+                        "phoneme": "IAN",
+                        "span": {
+                            "start": 194,
+                            "end": 211
+                        },
+                        "pronunciation": 100,
+                        "phone": "an"
+                    }
+                ]
+            },
+            {
+                "pause": {
+                    "duration": 0,
+                    "type": 0
+                },
+                "charType": 0,
+                "word": "景",
+                "span": {
+                    "start": 211,
+                    "end": 240
+                },
+                "pinyin": "jing",
+                "readType": 0,
+                "word_parts": [
+                    {
+                        "endIndex": 9,
+                        "part": "景",
+                        "charType": 0,
+                        "beginIndex": 9
+                    }
+                ],
+                "scores": {
+                    "overall_pron": 100,
+                    "tone": 100,
+                    "overall": 100,
+                    "pronunciation": 100,
+                    "prominence": 0
+                },
+                "tone": "tone3",
+                "phonemes": [
+                    {
+                        "tone_index": "0",
+                        "phoneme": "J",
+                        "span": {
+                            "start": 211,
+                            "end": 221
+                        },
+                        "pronunciation": 100,
+                        "phone": "j"
+                    },
+                    {
+                        "tone_index": "1",
+                        "phoneme": "ING",
+                        "span": {
+                            "start": 221,
+                            "end": 240
+                        },
+                        "pronunciation": 100,
+                        "phone": "ing"
+                    }
+                ]
+            },
+            {
+                "pause": {
+                    "duration": 31,
+                    "type": 1
+                },
+                "charType": 0,
+                "word": "大",
+                "span": {
+                    "start": 271,
+                    "end": 293
+                },
+                "pinyin": "da",
+                "readType": 0,
+                "word_parts": [
+                    {
+                        "endIndex": 11,
+                        "part": "大",
+                        "charType": 0,
+                        "beginIndex": 11
+                    }
+                ],
+                "scores": {
+                    "overall_pron": 100,
+                    "tone": 100,
+                    "overall": 100,
+                    "pronunciation": 100,
+                    "prominence": 1
+                },
+                "tone": "tone4",
+                "phonemes": [
+                    {
+                        "tone_index": "0",
+                        "phoneme": "D",
+                        "span": {
+                            "start": 271,
+                            "end": 279
+                        },
+                        "pronunciation": 100,
+                        "phone": "d"
+                    },
+                    {
+                        "tone_index": "1",
+                        "phoneme": "A",
+                        "span": {
+                            "start": 279,
+                            "end": 293
+                        },
+                        "pronunciation": 100,
+                        "phone": "a"
+                    }
+                ]
+            },
+            {
+                "pause": {
+                    "duration": 0,
+                    "type": 0
+                },
+                "charType": 0,
+                "word": "块",
+                "span": {
+                    "start": 293,
+                    "end": 315
+                },
+                "pinyin": "kuai",
+                "readType": 0,
+                "word_parts": [
+                    {
+                        "endIndex": 12,
+                        "part": "块",
+                        "charType": 0,
+                        "beginIndex": 12
+                    }
+                ],
+                "scores": {
+                    "overall_pron": 100,
+                    "tone": 100,
+                    "overall": 100,
+                    "pronunciation": 100,
+                    "prominence": 0
+                },
+                "tone": "tone4",
+                "phonemes": [
+                    {
+                        "tone_index": "0",
+                        "phoneme": "K",
+                        "span": {
+                            "start": 293,
+                            "end": 305
+                        },
+                        "pronunciation": 100,
+                        "phone": "k"
+                    },
+                    {
+                        "tone_index": "2",
+                        "phoneme": "UAI",
+                        "span": {
+                            "start": 305,
+                            "end": 315
+                        },
+                        "pronunciation": 100,
+                        "phone": "uai"
+                    }
+                ]
+            },
+            {
+                "pause": {
+                    "duration": 0,
+                    "type": 0
+                },
+                "charType": 0,
+                "word": "文",
+                "span": {
+                    "start": 315,
+                    "end": 334
+                },
+                "pinyin": "wen",
+                "readType": 0,
+                "word_parts": [
+                    {
+                        "endIndex": 14,
+                        "part": "文",
+                        "charType": 0,
+                        "beginIndex": 14
+                    }
+                ],
+                "scores": {
+                    "overall_pron": 100,
+                    "tone": 100,
+                    "overall": 100,
+                    "pronunciation": 100,
+                    "prominence": 0
+                },
+                "tone": "tone2",
+                "phonemes": [
+                    {
+                        "tone_index": "0",
+                        "phoneme": "UU",
+                        "span": {
+                            "start": 315,
+                            "end": 323
+                        },
+                        "pronunciation": 100,
+                        "phone": "w"
+                    },
+                    {
+                        "tone_index": "1",
+                        "phoneme": "EN",
+                        "span": {
+                            "start": 323,
+                            "end": 334
+                        },
+                        "pronunciation": 100,
+                        "phone": "en"
+                    }
+                ]
+            },
+            {
+                "pause": {
+                    "duration": 0,
+                    "type": 0
+                },
+                "charType": 0,
+                "word": "章",
+                "span": {
+                    "start": 334,
+                    "end": 347
+                },
+                "pinyin": "zhang",
+                "readType": 0,
+                "word_parts": [
+                    {
+                        "endIndex": 15,
+                        "part": "章",
+                        "charType": 0,
+                        "beginIndex": 15
+                    }
+                ],
+                "scores": {
+                    "overall_pron": 100,
+                    "tone": 98,
+                    "overall": 100,
+                    "pronunciation": 100,
+                    "prominence": 0
+                },
+                "tone": "tone1",
+                "phonemes": [
+                    {
+                        "tone_index": "0",
+                        "phoneme": "ZH",
+                        "span": {
+                            "start": 334,
+                            "end": 342
+                        },
+                        "pronunciation": 100,
+                        "phone": "zh"
+                    },
+                    {
+                        "tone_index": "1",
+                        "phoneme": "ANG",
+                        "span": {
+                            "start": 342,
+                            "end": 347
+                        },
+                        "pronunciation": 100,
+                        "phone": "ang"
+                    }
+                ]
+            },
+            {
+                "pause": {
+                    "duration": 0,
+                    "type": 0
+                },
+                "charType": 0,
+                "word": "的",
+                "span": {
+                    "start": 347,
+                    "end": 358
+                },
+                "pinyin": "de",
+                "readType": 0,
+                "word_parts": [
+                    {
+                        "endIndex": 17,
+                        "part": "的",
+                        "charType": 0,
+                        "beginIndex": 17
+                    }
+                ],
+                "scores": {
+                    "overall_pron": 89,
+                    "tone": 46,
+                    "overall": 100,
+                    "pronunciation": 100,
+                    "prominence": 0
+                },
+                "tone": "tone5",
+                "phonemes": [
+                    {
+                        "tone_index": "0",
+                        "phoneme": "D",
+                        "span": {
+                            "start": 347,
+                            "end": 353
+                        },
+                        "pronunciation": 100,
+                        "phone": "d"
+                    },
+                    {
+                        "tone_index": "1",
+                        "phoneme": "E",
+                        "span": {
+                            "start": 353,
+                            "end": 358
+                        },
+                        "pronunciation": 100,
+                        "phone": "e"
+                    }
+                ]
+            },
+            {
+                "pause": {
+                    "duration": 0,
+                    "type": 0
+                },
+                "charType": 0,
+                "word": "底",
+                "span": {
+                    "start": 358,
+                    "end": 379
+                },
+                "pinyin": "di",
+                "readType": 0,
+                "word_parts": [
+                    {
+                        "endIndex": 19,
+                        "part": "底",
+                        "charType": 0,
+                        "beginIndex": 19
+                    }
+                ],
+                "scores": {
+                    "overall_pron": 100,
+                    "tone": 98,
+                    "overall": 100,
+                    "pronunciation": 100,
+                    "prominence": 0
+                },
+                "tone": "tone3",
+                "phonemes": [
+                    {
+                        "tone_index": "0",
+                        "phoneme": "D",
+                        "span": {
+                            "start": 358,
+                            "end": 368
+                        },
+                        "pronunciation": 100,
+                        "phone": "d"
+                    },
+                    {
+                        "tone_index": "1",
+                        "phoneme": "I",
+                        "span": {
+                            "start": 368,
+                            "end": 379
+                        },
+                        "pronunciation": 100,
+                        "phone": "i"
+                    }
+                ]
+            },
+            {
+                "pause": {
+                    "duration": 0,
+                    "type": 0
+                },
+                "charType": 0,
+                "word": "色",
+                "span": {
+                    "start": 379,
+                    "end": 417
+                },
+                "pinyin": "se",
+                "readType": 0,
+                "word_parts": [
+                    {
+                        "endIndex": 20,
+                        "part": "色",
+                        "charType": 0,
+                        "beginIndex": 20
+                    }
+                ],
+                "scores": {
+                    "overall_pron": 100,
+                    "tone": 100,
+                    "overall": 100,
+                    "pronunciation": 100,
+                    "prominence": 0
+                },
+                "tone": "tone4",
+                "phonemes": [
+                    {
+                        "tone_index": "0",
+                        "phoneme": "S",
+                        "span": {
+                            "start": 379,
+                            "end": 395
+                        },
+                        "pronunciation": 100,
+                        "phone": "s"
+                    },
+                    {
+                        "tone_index": "1",
+                        "phoneme": "E",
+                        "span": {
+                            "start": 395,
+                            "end": 417
+                        },
+                        "pronunciation": 100,
+                        "phone": "e"
+                    }
+                ]
+            },
+            {
+                "pause": {
+                    "duration": 24,
+                    "type": 1
+                },
+                "charType": 0,
+                "word": "四",
+                "span": {
+                    "start": 441,
+                    "end": 474
+                },
+                "pinyin": "si",
+                "readType": 0,
+                "word_parts": [
+                    {
+                        "endIndex": 22,
+                        "part": "四",
+                        "charType": 0,
+                        "beginIndex": 22
+                    }
+                ],
+                "scores": {
+                    "overall_pron": 100,
+                    "tone": 100,
+                    "overall": 100,
+                    "pronunciation": 100,
+                    "prominence": 0
+                },
+                "tone": "tone4",
+                "phonemes": [
+                    {
+                        "tone_index": "0",
+                        "phoneme": "S",
+                        "span": {
+                            "start": 441,
+                            "end": 464
+                        },
+                        "pronunciation": 100,
+                        "phone": "s"
+                    },
+                    {
+                        "tone_index": "1",
+                        "phoneme": "IY",
+                        "span": {
+                            "start": 464,
+                            "end": 474
+                        },
+                        "pronunciation": 100,
+                        "phone": "i"
+                    }
+                ]
+            },
+            {
+                "pause": {
+                    "duration": 0,
+                    "type": 0
+                },
+                "charType": 0,
+                "word": "月",
+                "span": {
+                    "start": 474,
+                    "end": 487
+                },
+                "pinyin": "yue",
+                "readType": 0,
+                "word_parts": [
+                    {
+                        "endIndex": 23,
+                        "part": "月",
+                        "charType": 0,
+                        "beginIndex": 23
+                    }
+                ],
+                "scores": {
+                    "overall_pron": 95,
+                    "tone": 74,
+                    "overall": 100,
+                    "pronunciation": 100,
+                    "prominence": 0
+                },
+                "tone": "tone4",
+                "phonemes": [
+                    {
+                        "tone_index": "0",
+                        "phoneme": "VV",
+                        "span": {
+                            "start": 474,
+                            "end": 481
+                        },
+                        "pronunciation": 100,
+                        "phone": "y"
+                    },
+                    {
+                        "tone_index": "2",
+                        "phoneme": "VE",
+                        "span": {
+                            "start": 481,
+                            "end": 487
+                        },
+                        "pronunciation": 100,
+                        "phone": "ue"
+                    }
+                ]
+            },
+            {
+                "pause": {
+                    "duration": 0,
+                    "type": 0
+                },
+                "charType": 0,
+                "word": "的",
+                "span": {
+                    "start": 487,
+                    "end": 497
+                },
+                "pinyin": "de",
+                "readType": 0,
+                "word_parts": [
+                    {
+                        "endIndex": 25,
+                        "part": "的",
+                        "charType": 0,
+                        "beginIndex": 25
+                    }
+                ],
+                "scores": {
+                    "overall_pron": 83,
+                    "tone": 14,
+                    "overall": 100,
+                    "pronunciation": 100,
+                    "prominence": 0
+                },
+                "tone": "tone5",
+                "phonemes": [
+                    {
+                        "tone_index": "0",
+                        "phoneme": "D",
+                        "span": {
+                            "start": 487,
+                            "end": 492
+                        },
+                        "pronunciation": 100,
+                        "phone": "d"
+                    },
+                    {
+                        "tone_index": "1",
+                        "phoneme": "E",
+                        "span": {
+                            "start": 492,
+                            "end": 497
+                        },
+                        "pronunciation": 100,
+                        "phone": "e"
+                    }
+                ]
+            },
+            {
+                "pause": {
+                    "duration": 0,
+                    "type": 0
+                },
+                "charType": 0,
+                "word": "林",
+                "span": {
+                    "start": 497,
+                    "end": 516
+                },
+                "pinyin": "lin",
+                "readType": 0,
+                "word_parts": [
+                    {
+                        "endIndex": 27,
+                        "part": "林",
+                        "charType": 0,
+                        "beginIndex": 27
+                    }
+                ],
+                "scores": {
+                    "overall_pron": 100,
+                    "tone": 100,
+                    "overall": 100,
+                    "pronunciation": 100,
+                    "prominence": 0
+                },
+                "tone": "tone2",
+                "phonemes": [
+                    {
+                        "tone_index": "0",
+                        "phoneme": "L",
+                        "span": {
+                            "start": 497,
+                            "end": 506
+                        },
+                        "pronunciation": 100,
+                        "phone": "l"
+                    },
+                    {
+                        "tone_index": "1",
+                        "phoneme": "IN",
+                        "span": {
+                            "start": 506,
+                            "end": 516
+                        },
+                        "pronunciation": 100,
+                        "phone": "in"
+                    }
+                ]
+            },
+            {
+                "pause": {
+                    "duration": 0,
+                    "type": 0
+                },
+                "charType": 0,
+                "word": "峦",
+                "span": {
+                    "start": 516,
+                    "end": 556
+                },
+                "pinyin": "luan",
+                "readType": 0,
+                "word_parts": [
+                    {
+                        "endIndex": 29,
+                        "part": "峦",
+                        "charType": 0,
+                        "beginIndex": 29
+                    }
+                ],
+                "scores": {
+                    "overall_pron": 100,
+                    "tone": 100,
+                    "overall": 100,
+                    "pronunciation": 100,
+                    "prominence": 0
+                },
+                "tone": "tone2",
+                "phonemes": [
+                    {
+                        "tone_index": "0",
+                        "phoneme": "L",
+                        "span": {
+                            "start": 516,
+                            "end": 524
+                        },
+                        "pronunciation": 100,
+                        "phone": "l"
+                    },
+                    {
+                        "tone_index": "2",
+                        "phoneme": "UAN",
+                        "span": {
+                            "start": 524,
+                            "end": 556
+                        },
+                        "pronunciation": 100,
+                        "phone": "uan"
+                    }
+                ]
+            },
+            {
+                "pause": {
+                    "duration": 0,
+                    "type": 0
+                },
+                "charType": 0,
+                "word": "更",
+                "span": {
+                    "start": 559,
+                    "end": 576
+                },
+                "pinyin": "geng",
+                "readType": 0,
+                "word_parts": [
+                    {
+                        "endIndex": 31,
+                        "part": " 更",
+                        "charType": 0,
+                        "beginIndex": 31
+                    }
+                ],
+                "scores": {
+                    "overall_pron": 100,
+                    "tone": 100,
+                    "overall": 100,
+                    "pronunciation": 100,
+                    "prominence": 0
+                },
+                "tone": "tone4",
+                "phonemes": [
+                    {
+                        "tone_index": "0",
+                        "phoneme": "G",
+                        "span": {
+                            "start": 559,
+                            "end": 568
+                        },
+                        "pronunciation": 100,
+                        "phone": "g"
+                    },
+                    {
+                        "tone_index": "1",
+                        "phoneme": "ENG",
+                        "span": {
+                            "start": 568,
+                            "end": 576
+                        },
+                        "pronunciation": 100,
+                        "phone": "eng"
+                    }
+                ]
+            },
+            {
+                "pause": {
+                    "duration": 0,
+                    "type": 0
+                },
+                "charType": 0,
+                "word": "是",
+                "span": {
+                    "start": 576,
+                    "end": 590
+                },
+                "pinyin": "shi",
+                "readType": 0,
+                "word_parts": [
+                    {
+                        "endIndex": 32,
+                        "part": "是",
+                        "charType": 0,
+                        "beginIndex": 32
+                    }
+                ],
+                "scores": {
+                    "overall_pron": 98,
+                    "tone": 91,
+                    "overall": 100,
+                    "pronunciation": 100,
+                    "prominence": 0
+                },
+                "tone": "tone4",
+                "phonemes": [
+                    {
+                        "tone_index": "0",
+                        "phoneme": "SH",
+                        "span": {
+                            "start": 576,
+                            "end": 586
+                        },
+                        "pronunciation": 100,
+                        "phone": "sh"
+                    },
+                    {
+                        "tone_index": "1",
+                        "phoneme": "IX",
+                        "span": {
+                            "start": 586,
+                            "end": 590
+                        },
+                        "pronunciation": 100,
+                        "phone": "i"
+                    }
+                ]
+            },
+            {
+                "pause": {
+                    "duration": 0,
+                    "type": 0
+                },
+                "charType": 0,
+                "word": "绿",
+                "span": {
+                    "start": 590,
+                    "end": 607
+                },
+                "pinyin": "lv",
+                "readType": 0,
+                "word_parts": [
+                    {
+                        "endIndex": 34,
+                        "part": "绿",
+                        "charType": 0,
+                        "beginIndex": 34
+                    }
+                ],
+                "scores": {
+                    "overall_pron": 100,
+                    "tone": 100,
+                    "overall": 100,
+                    "pronunciation": 100,
+                    "prominence": 0
+                },
+                "tone": "tone4",
+                "phonemes": [
+                    {
+                        "tone_index": "0",
+                        "phoneme": "L",
+                        "span": {
+                            "start": 590,
+                            "end": 598
+                        },
+                        "pronunciation": 100,
+                        "phone": "l"
+                    },
+                    {
+                        "tone_index": "1",
+                        "phoneme": "V",
+                        "span": {
+                            "start": 598,
+                            "end": 607
+                        },
+                        "pronunciation": 100,
+                        "phone": "v"
+                    }
+                ]
+            },
+            {
+                "pause": {
+                    "duration": 0,
+                    "type": 0
+                },
+                "charType": 0,
+                "word": "得",
+                "span": {
+                    "start": 607,
+                    "end": 618
+                },
+                "pinyin": "de",
+                "readType": 0,
+                "word_parts": [
+                    {
+                        "endIndex": 36,
+                        "part": "得",
+                        "charType": 0,
+                        "beginIndex": 36
+                    }
+                ],
+                "scores": {
+                    "overall_pron": 99,
+                    "tone": 97,
+                    "overall": 100,
+                    "pronunciation": 100,
+                    "prominence": 0
+                },
+                "tone": "tone2",
+                "phonemes": [
+                    {
+                        "tone_index": "0",
+                        "phoneme": "D",
+                        "span": {
+                            "start": 607,
+                            "end": 612
+                        },
+                        "pronunciation": 100,
+                        "phone": "d"
+                    },
+                    {
+                        "tone_index": "1",
+                        "phoneme": "E",
+                        "span": {
+                            "start": 612,
+                            "end": 618
+                        },
+                        "pronunciation": 100,
+                        "phone": "e"
+                    }
+                ]
+            },
+            {
+                "pause": {
+                    "duration": 0,
+                    "type": 0
+                },
+                "charType": 0,
+                "word": "鲜",
+                "span": {
+                    "start": 618,
+                    "end": 649
+                },
+                "pinyin": "xian",
+                "readType": 0,
+                "word_parts": [
+                    {
+                        "endIndex": 38,
+                        "part": "鲜",
+                        "charType": 0,
+                        "beginIndex": 38
+                    }
+                ],
+                "scores": {
+                    "overall_pron": 100,
+                    "tone": 100,
+                    "overall": 100,
+                    "pronunciation": 100,
+                    "prominence": 0
+                },
+                "tone": "tone1",
+                "phonemes": [
+                    {
+                        "tone_index": "0",
+                        "phoneme": "X",
+                        "span": {
+                            "start": 618,
+                            "end": 636
+                        },
+                        "pronunciation": 100,
+                        "phone": "x"
+                    },
+                    {
+                        "tone_index": "2",
+                        "phoneme": "IAN",
+                        "span": {
+                            "start": 636,
+                            "end": 649
+                        },
+                        "pronunciation": 100,
+                        "phone": "ian"
+                    }
+                ]
+            },
+            {
+                "pause": {
+                    "duration": 0,
+                    "type": 0
+                },
+                "charType": 0,
+                "word": "活",
+                "span": {
+                    "start": 649,
+                    "end": 694
+                },
+                "pinyin": "huo",
+                "readType": 0,
+                "word_parts": [
+                    {
+                        "endIndex": 39,
+                        "part": "活",
+                        "charType": 0,
+                        "beginIndex": 39
+                    }
+                ],
+                "scores": {
+                    "overall_pron": 100,
+                    "tone": 100,
+                    "overall": 100,
+                    "pronunciation": 100,
+                    "prominence": 0
+                },
+                "tone": "tone2",
+                "phonemes": [
+                    {
+                        "tone_index": "0",
+                        "phoneme": "H",
+                        "span": {
+                            "start": 649,
+                            "end": 666
+                        },
+                        "pronunciation": 100,
+                        "phone": "h"
+                    },
+                    {
+                        "tone_index": "2",
+                        "phoneme": "UO",
+                        "span": {
+                            "start": 666,
+                            "end": 694
+                        },
+                        "pronunciation": 100,
+                        "phone": "uo"
+                    }
+                ]
+            },
+            {
+                "pause": {
+                    "duration": 15,
+                    "type": 1
+                },
+                "charType": 0,
+                "word": "秀",
+                "span": {
+                    "start": 709,
+                    "end": 742
+                },
+                "pinyin": "xiu",
+                "readType": 0,
+                "word_parts": [
+                    {
+                        "endIndex": 41,
+                        "part": "秀",
+                        "charType": 0,
+                        "beginIndex": 41
+                    }
+                ],
+                "scores": {
+                    "overall_pron": 100,
+                    "tone": 100,
+                    "overall": 100,
+                    "pronunciation": 100,
+                    "prominence": 0
+                },
+                "tone": "tone4",
+                "phonemes": [
+                    {
+                        "tone_index": "0",
+                        "phoneme": "X",
+                        "span": {
+                            "start": 709,
+                            "end": 730
+                        },
+                        "pronunciation": 100,
+                        "phone": "x"
+                    },
+                    {
+                        "tone_index": "2",
+                        "phoneme": "IU",
+                        "span": {
+                            "start": 730,
+                            "end": 742
+                        },
+                        "pronunciation": 100,
+                        "phone": "iu"
+                    }
+                ]
+            },
+            {
+                "pause": {
+                    "duration": 0,
+                    "type": 0
+                },
+                "charType": 0,
+                "word": "媚",
+                "span": {
+                    "start": 742,
+                    "end": 778
+                },
+                "pinyin": "mei",
+                "readType": 0,
+                "word_parts": [
+                    {
+                        "endIndex": 42,
+                        "part": "媚",
+                        "charType": 0,
+                        "beginIndex": 42
+                    }
+                ],
+                "scores": {
+                    "overall_pron": 100,
+                    "tone": 100,
+                    "overall": 100,
+                    "pronunciation": 100,
+                    "prominence": 0
+                },
+                "tone": "tone4",
+                "phonemes": [
+                    {
+                        "tone_index": "0",
+                        "phoneme": "M",
+                        "span": {
+                            "start": 742,
+                            "end": 753
+                        },
+                        "pronunciation": 100,
+                        "phone": "m"
+                    },
+                    {
+                        "tone_index": "1",
+                        "phoneme": "EI",
+                        "span": {
+                            "start": 753,
+                            "end": 778
+                        },
+                        "pronunciation": 100,
+                        "phone": "ei"
+                    }
+                ]
+            },
+            {
+                "pause": {
+                    "duration": 19,
+                    "type": 1
+                },
+                "charType": 0,
+                "word": "诗",
+                "span": {
+                    "start": 797,
+                    "end": 826
+                },
+                "pinyin": "shi",
+                "readType": 0,
+                "word_parts": [
+                    {
+                        "endIndex": 44,
+                        "part": "诗",
+                        "charType": 0,
+                        "beginIndex": 44
+                    }
+                ],
+                "scores": {
+                    "overall_pron": 100,
+                    "tone": 98,
+                    "overall": 100,
+                    "pronunciation": 100,
+                    "prominence": 0
+                },
+                "tone": "tone1",
+                "phonemes": [
+                    {
+                        "tone_index": "0",
+                        "phoneme": "SH",
+                        "span": {
+                            "start": 797,
+                            "end": 818
+                        },
+                        "pronunciation": 100,
+                        "phone": "sh"
+                    },
+                    {
+                        "tone_index": "1",
+                        "phoneme": "IX",
+                        "span": {
+                            "start": 818,
+                            "end": 826
+                        },
+                        "pronunciation": 100,
+                        "phone": "i"
+                    }
+                ]
+            },
+            {
+                "pause": {
+                    "duration": 0,
+                    "type": 0
+                },
+                "charType": 0,
+                "word": "意",
+                "span": {
+                    "start": 826,
+                    "end": 850
+                },
+                "pinyin": "yi",
+                "readType": 0,
+                "word_parts": [
+                    {
+                        "endIndex": 45,
+                        "part": "意",
+                        "charType": 0,
+                        "beginIndex": 45
+                    }
+                ],
+                "scores": {
+                    "overall_pron": 93,
+                    "tone": 63,
+                    "overall": 100,
+                    "pronunciation": 100,
+                    "prominence": 0
+                },
+                "tone": "tone4",
+                "phonemes": [
+                    {
+                        "tone_index": "0",
+                        "phoneme": "II",
+                        "span": {
+                            "start": 826,
+                            "end": 835
+                        },
+                        "pronunciation": 100,
+                        "phone": "y"
+                    },
+                    {
+                        "tone_index": "1",
+                        "phoneme": "I",
+                        "span": {
+                            "start": 835,
+                            "end": 850
+                        },
+                        "pronunciation": 100,
+                        "phone": "i"
+                    }
+                ]
+            },
+            {
+                "pause": {
+                    "duration": 0,
+                    "type": 0
+                },
+                "charType": 0,
+                "word": "盎",
+                "span": {
+                    "start": 850,
+                    "end": 864
+                },
+                "pinyin": "ang",
+                "readType": 0,
+                "word_parts": [
+                    {
+                        "endIndex": 47,
+                        "part": "盎",
+                        "charType": 0,
+                        "beginIndex": 47
+                    }
+                ],
+                "scores": {
+                    "overall_pron": 96,
+                    "tone": 80,
+                    "overall": 100,
+                    "pronunciation": 100,
+                    "prominence": 0
+                },
+                "tone": "tone4",
+                "phonemes": [
+                    {
+                        "tone_index": "1",
+                        "phoneme": "ANG",
+                        "span": {
+                            "start": 850,
+                            "end": 864
+                        },
+                        "pronunciation": 100,
+                        "phone": "ang"
+                    }
+                ]
+            },
+            {
+                "pause": {
+                    "duration": 0,
+                    "type": 0
+                },
+                "charType": 0,
+                "word": "然",
+                "span": {
+                    "start": 864,
+                    "end": 898
+                },
+                "pinyin": "ran",
+                "readType": 0,
+                "word_parts": [
+                    {
+                        "endIndex": 48,
+                        "part": "然",
+                        "charType": 0,
+                        "beginIndex": 48
+                    }
+                ],
+                "scores": {
+                    "overall_pron": 100,
+                    "tone": 100,
+                    "overall": 100,
+                    "pronunciation": 100,
+                    "prominence": 0
+                },
+                "tone": "tone2",
+                "phonemes": [
+                    {
+                        "tone_index": "0",
+                        "phoneme": "R",
+                        "span": {
+                            "start": 864,
+                            "end": 874
+                        },
+                        "pronunciation": 100,
+                        "phone": "r"
+                    },
+                    {
+                        "tone_index": "1",
+                        "phoneme": "AN",
+                        "span": {
+                            "start": 874,
+                            "end": 898
+                        },
+                        "pronunciation": 100,
+                        "phone": "an"
+                    }
+                ]
+            }
+        ],
+        "kernel_version": "2.1.7",
+        "rear_tone": "rise",
+        "overall": 96,
+        "rhythm": 92,
+        "fluency": 89,
+        "pronunciation": 100,
+        "resource_version": "1.5.6"
+    },
+    "recordId": "64c14a0e4aa5c2200000751d",
+    "dtLastResponse": "2023-07-27 00:30:07:692"
+}
